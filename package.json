@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "description": "Documentation website for JSDoc.",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.0.0",
     "@jsdoc/eslint-config": "^1.2.4",
     "@jsdoc/prettier-config": "^0.2.3",
-    "eslint": "^8.51.0",
+    "eslint": "^9.1.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.1",
     "highlight.js": "^11.9.0",
