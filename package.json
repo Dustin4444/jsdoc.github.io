@@ -4,7 +4,7 @@
   "description": "Documentation website for JSDoc.",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@jsdoc/eslint-config": "^1.2.4",
+    "@jsdoc/eslint-config": "^2.0.2",
     "@jsdoc/prettier-config": "^0.2.3",
     "eslint": "^8.51.0",
     "eslint-config-prettier": "^9.0.0",
