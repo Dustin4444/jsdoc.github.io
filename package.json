@@ -7,7 +7,7 @@
     "@jsdoc/eslint-config": "^1.2.4",
     "@jsdoc/prettier-config": "^0.2.3",
     "eslint": "^8.51.0",
-    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.0.1",
     "highlight.js": "^11.9.0",
     "js-yaml": "^4.1.0",
